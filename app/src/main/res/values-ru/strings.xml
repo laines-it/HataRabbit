@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="skin_is_an_unique_hat_appearance">Скин - это уникальный внешний вид шляпы</string>
+    <string name="menu">Меню</string>
+    <string name="you_can_spend_money_on_skins">Вы можете тратить деньги на скины</string>
+    <string name="_1_10_points">$1 = 10 очков</string>
+    <string name="scored_points_will_be_converted_to_money">Набранные очки будут переведены в деньги</string>
+    <string name="there_will_be_10_rabbits_in_total">Всего будет 10 кроликов</string>
+    <string name="_1_missed_rabbit_10_points">1 пропущенный кролик = -10 очков</string>
+    <string name="_1_catched_rabbit_10_points">1 пойманный кролик = 10 очков</string>
+    <string name="every_click_1_point">Каждое нажатие = -1 очко</string>
+    <string name="there_are_6_different_skins">Всего доступно 6 скинов</string>
+    <string name="in_this_game_you_have_to_control_a_horizontally_moving_hat_and_catch_falling_rabbits">В этой игре Вам нужно, управляя горизонтально-двигающейся шляпой, ловить падающих кроликов</string>
+    <string name="about">Об игре</string>
+    <string name="skins">СКИНЫ</string>
+    <string name="exit">Выход</string>
+    <string name="start">Начать</string>
+    <string name="score">Очки: </string>
+    <string name="restart">Заново</string>
+    <string name="blue">Голубой</string>
+    <string name="noir">Нуар</string>
+    <string name="pink">Розовый</string>
+    <string name="leprecaun">Лепрекон</string>
+    <string name="choco">Шоколад</string>
+    <string name="mafia">Мафиози</string>
+    <string name="promocode">Промокод</string>
+    <string name="enter_promo">Введите Промо</string>
+    <string name="show_ad">Реклама</string>
+    <string name="and_get">и получите</string>
+    <string name="watch">Посмотрите</string>
+    <string name="_15_sec_ad">15-сек. ролик</string>
+    <string name="_30_sec_ad">30-сек. ролик</string>
+    <string name="back">Назад</string>
+    <string name="this_promo_gives_you_60">Этот промокод дает вам 60</string>
+    <string name="there_is_not_this_promocode">Такого промокода нет</string>
+    <string name="get_more_money">Больше денег</string>
+</resources>

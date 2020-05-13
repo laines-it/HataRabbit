@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Hat-Rabbit</string>
+    <string name="there_are_6_different_skins">There are 6 different skins</string>
+    <string name="skin_is_an_unique_hat_appearance">Skin is an unique hat appearance</string>
+    <string name="good_luck_have_fun" translatable="false">Good Luck. Have Fun</string>
+    <string name="menu">Menu</string>
+    <string name="you_can_spend_money_on_skins">You can spend money on skins</string>
+    <string name="_1_10_points">$1 = 10 points</string>
+    <string name="scored_points_will_be_converted_to_money">Scored points will be converted to money</string>
+    <string name="there_will_be_10_rabbits_in_total">There will be 10 rabbits in total</string>
+    <string name="_1_missed_rabbit_10_points">1 missed rabbit = -10 points</string>
+    <string name="_1_catched_rabbit_10_points">1 catched rabbit = 10 points</string>
+    <string name="in_this_game_you_have_to_control_a_horizontally_moving_hat_and_catch_falling_rabbits">In this game you have to control a horizontally moving hat and catch falling rabbits</string>
+    <string name="every_click_1_point">Every click = -1 point</string>
+    <string name="about">About</string>
+    <string name="skins">SKINS</string>
+    <string name="exit">EXIT</string>
+    <string name="start">Start</string>
+    <string name="score">Score: </string>
+    <string name="restart">RESTART</string>
+    <string name="blue">Blue</string>
+    <string name="noir">Noir</string>
+    <string name="pink">Pink</string>
+    <string name="leprecaun">Leprecaun</string>
+    <string name="choco">Choco</string>
+    <string name="mafia">Mafia</string>
+    <string name="promocode">Promocode</string>
+    <string name="enter_promo">Enter Promo</string>
+    <string name="show_ad">Show ad</string>
+    <string name="and_get">and get</string>
+    <string name="_30_sec_ad">30-sec ad</string>
+    <string name="watch">Watch</string>
+    <string name="_15_sec_ad">15-sec ad</string>
+    <string name="back">Back</string>
+    <string name="this_promo_gives_you_60">This promocode gives you 60</string>
+    <string name="there_is_not_this_promocode">There is not this promocode</string>
+    <string name="get_more_money">More money</string>
+</resources>
